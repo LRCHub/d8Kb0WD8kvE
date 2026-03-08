@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "恋愛♥ライダー",
+  "base_artist": "Buono!",
+  "createdAt": "2026-03-08T05:16:43.483044Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋愛 ライダー",
+      "artist": "Buono!",
+      "has_synced": false,
+      "path": "select/01_恋愛_ライダー_Buono!.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋愛♥ライダー",
+      "artist": "Buono!",
+      "has_synced": false,
+      "path": "select/02_恋愛♥ライダー_Buono!.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋愛♥ライダー",
+      "artist": "Buono!",
+      "has_synced": false,
+      "path": "select/pl_01_恋愛♥ライダー_Buono!.txt"
+    }
+  ]
+}
